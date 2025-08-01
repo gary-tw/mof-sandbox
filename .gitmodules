@@ -1,0 +1,3 @@
+[submodule "prefect-helm"]
+	path = prefect-helm
+	url = https://github.com/PrefectHQ/prefect-helm.git
